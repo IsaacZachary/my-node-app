@@ -1,5 +1,8 @@
 # Simple Web Server with Express.js
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 This Node.js application sets up a simple web server using Express.js. The application sets up a basic web server that listens for requests on a specified port and responds with a simple "Hello, World!" message when accessed through a web browser or API request.
 
 ## Application Structure
